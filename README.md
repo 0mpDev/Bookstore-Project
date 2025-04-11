@@ -1,15 +1,22 @@
-# 📚 Django Bookstore Application
+#  Django Bookstore Application
 
 A complete e-commerce bookstore built with Django, MySQL, and Bootstrap. Features user authentication, shopping cart, book catalog, and admin dashboard.
 
-## 📸 Screenshots
-![Screenshot 2025-04-11 021900](https://github.com/user-attachments/assets/e8be2604-8bf2-4a7c-99b9-9d972da591a3)
-![Screenshot 2025-04-11 022150](https://github.com/user-attachments/assets/8ab53ec4-2ed4-4673-8156-53d7cb2c7077)
-![Screenshot 2025-04-11 021933](https://github.com/user-attachments/assets/687a5333-697f-4329-aab3-f9622823733d)
-![Screenshot 2025-04-11 021921](https://github.com/user-attachments/assets/e95c4574-32f4-4968-ad7d-3b92b3490e11)
+##  Screenshots
+Home Page
+![image](https://github.com/user-attachments/assets/d171bb86-e245-41a4-a21d-36d9109c7d8e)
+![image](https://github.com/user-attachments/assets/92618d26-3b7d-4484-9ed9-0955da1fd107)
+After Clicking "Veiw Details"
+![image](https://github.com/user-attachments/assets/60d7a8a4-6486-49b1-b287-8d3cf48f2a7e)
+Cart
+![image](https://github.com/user-attachments/assets/0d263a30-59d2-4e91-b358-483fb37da747)
 
 
-## ✨ Features
+
+
+
+
+##  Features
 
 - **User Authentication**: Login, logout, and registration system
 - **Book Catalog**: Browse books by category/publication
@@ -17,7 +24,7 @@ A complete e-commerce bookstore built with Django, MySQL, and Bootstrap. Feature
 - **Admin Dashboard**: Manage books, publications, and orders
 - **Responsive Design**: Works on mobile and desktop
 
-## 🛠️ Technologies Used
+##  Technologies Used
 
 - **Backend**: Django 5.2
 - **Database**: MySQL
@@ -25,7 +32,7 @@ A complete e-commerce bookstore built with Django, MySQL, and Bootstrap. Feature
 - **Authentication**: Django Auth System
 - **Deployment**: (Specify when deployed)
 
-## 🚀 Installation
+##  Installation
 
 1. Clone the repository:
    ```bash
@@ -60,7 +67,7 @@ A complete e-commerce bookstore built with Django, MySQL, and Bootstrap. Feature
    ```bash
    python manage.py runserver
    ```
-##📂 Project Structure
+## Project Structure
 bookstore_project/
 ├── bookstore/               # Main app
 │   ├── migrations/          # Database migrations
